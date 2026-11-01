@@ -3,7 +3,7 @@
 Interfaz en React (Vite) para subir un cuestionario (PDF, Word o Excel), procesarlo con el backend y ver o descargar el JSON resultante.
 
 - **Backend:** https://llm-surveys-back.onrender.com/ (repositorio `llm-surveys-back`)
-- **Deploy:** _pendiente_
+- **Deploy:** https://llm-surveys-front.onrender.com/
 
 ## Instalación
 
